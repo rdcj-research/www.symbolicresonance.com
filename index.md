@@ -84,48 +84,48 @@ These foundational texts offer deeper understanding of symbolic resonance across
 
 ### Foundational Texts
 
-* **Alfred Korzybski – *Science and Sanity***: Insights into semantics and symbol interpretation.
-* **Claude Shannon – *A Mathematical Theory of Communication***: Core ideas on symbolic information transmission.
-* **Carl G. Jung – *Archetypes and the Collective Unconscious***: Seminal psychological insights into universal symbolic patterns.
+* [**Alfred Korzybski – *Science and Sanity***: Insights into semantics and symbol interpretation.](https://amzn.to/4mhbihQ)
+* [**Claude Shannon – *A Mathematical Theory of Communication***: Core ideas on symbolic information transmission.](https://amzn.to/4iLv02h)
+* [**Carl G. Jung – *Archetypes and the Collective Unconscious***: Seminal psychological insights into universal symbolic patterns.](https://amzn.to/3EF0Wr9)
 
 ### Symbolism and Culture
 
-* **Carl G. Liungman – *Dictionary of Symbols***: Comprehensive visual reference to global symbols.
-* **Richard Wilhelm – *I Ching: Book of Changes***: Classic text on symbolic meaning and interpretation.
-* **J.C. Cooper – *An Illustrated Encyclopaedia of Traditional Symbols***: Detailed symbol analysis across traditions.
+* [**Carl G. Liungman – *Dictionary of Symbols***: Comprehensive visual reference to global symbols.](https://amzn.to/3YyKsY9)
+* [**Richard Wilhelm – *I Ching: Book of Changes***: Classic text on symbolic meaning and interpretation.](https://amzn.to/3RR9NJ9)
+* [**J.C. Cooper – *An Illustrated Encyclopaedia of Traditional Symbols***: Detailed symbol analysis across traditions.](https://amzn.to/4iLxGNe)
 
 ### Semiotics and Philosophy
 
-* **Umberto Eco – *A Theory of Semiotics***: Foundational theory on symbolism and meaning.
-* **Douglas Hofstadter – *Gödel, Escher, Bach***: Exploration of recursion and resonance in symbols.
+* [**Umberto Eco – *A Theory of Semiotics***: Foundational theory on symbolism and meaning.](https://amzn.to/4jORgcY)
+* [**Douglas Hofstadter – *Gödel, Escher, Bach***: Exploration of recursion and resonance in symbols.](https://amzn.to/3YxjrEv)
 
 ### Symbolic Mathematics and Computation
 
-* **George Spencer-Brown – *Laws of Form***: Examination of symbolic logic and cognitive structure.
-* **Rudy Rucker – *Infinity and the Mind***: Accessible exploration of symbols in mathematics.
+* [**George Spencer-Brown – *Laws of Form***: Examination of symbolic logic and cognitive structure.](https://amzn.to/3GHE0rI)
+* [**Rudy Rucker – *Infinity and the Mind***: Accessible exploration of symbols in mathematics.](https://amzn.to/4jK74h1)
 
 ### Cognitive and Cultural Psychology
 
-* **Francisco Varela et al. – *The Embodied Mind***: Connection between cognition and symbolic embodiment.
-* **Gregory Bateson – *Steps to an Ecology of Mind***: Analysis of symbolic ecosystems in cognition.
+* [**Francisco Varela et al. – *The Embodied Mind***: Connection between cognition and symbolic embodiment.](https://amzn.to/3ED90IY)
+* [**Gregory Bateson – *Steps to an Ecology of Mind***: Analysis of symbolic ecosystems in cognition.](https://amzn.to/3EXxGvH)
 
 ### Ethical and Anthropological Insights
 
-* **Karen Barad – *Meeting the Universe Halfway***: Intersection of symbolism, ethics, and quantum theory.
-* **Donna Haraway – *Staying with the Trouble***: Ethical considerations in symbolic storytelling and representation.
+* [**Karen Barad – *Meeting the Universe Halfway***: Intersection of symbolism, ethics, and quantum theory.](https://amzn.to/3GT1UR2)
+* [**Donna Haraway – *Staying with the Trouble***: Ethical considerations in symbolic storytelling and representation.](https://amzn.to/3SkQ1FZ)
 
 ---
 
 ## References
 
-* Bateson, Gregory. *Steps to an Ecology of Mind*. 1972.
-* Eco, Umberto. *A Theory of Semiotics*. 1976.
-* Hofstadter, Douglas R. *Gödel, Escher, Bach*. 1979.
-* Jung, C.G. *Archetypes and the Collective Unconscious*. 1959.
-* Korzybski, Alfred. *Science and Sanity*. 1933.
-* Shannon, Claude E. *A Mathematical Theory of Communication*. 1948.
-* Spencer-Brown, George. *Laws of Form*. 1969.
-* Varela, Francisco J., et al. *The Embodied Mind*. 1991.
+* [Bateson, Gregory. *Steps to an Ecology of Mind*. 1972.](https://amzn.to/3EXxGvH)
+* [Eco, Umberto. *A Theory of Semiotics*. 1976.](https://amzn.to/4jORgcY)
+* [Hofstadter, Douglas R. *Gödel, Escher, Bach*. 1979.](https://amzn.to/3YxjrEv)
+* [Jung, C.G. *Archetypes and the Collective Unconscious*. 1959.](https://amzn.to/3EF0Wr9)
+* [Korzybski, Alfred. *Science and Sanity*. 1933.](https://amzn.to/4mhbihQ)
+* [Shannon, Claude E. *A Mathematical Theory of Communication*. 1948.](https://amzn.to/4iLv02h)
+* [Spencer-Brown, George. *Laws of Form*. 1969.](https://amzn.to/3GHE0rI)
+* [Varela, Francisco J., et al. *The Embodied Mind*. 1991.](https://amzn.to/3ED90IY)
 
 ---
 
@@ -139,5 +139,9 @@ Reach out: [reach@rdcj-research.com](mailto:reach@rdcj-research.com)
 *Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — © 2025 R.D.C. Jazinski.*
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+<p class="footer-disclaimer">
+SymbolicResonance.com participates in the Amazon Associates program, which means we may earn affiliate commissions when you buy products through our links. These commissions help support our independent research into symbolic systems, computation, and epistemology — at no extra cost to you.
+</p>
 
 
