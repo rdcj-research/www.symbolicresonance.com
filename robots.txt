@@ -1,0 +1,4 @@
+# robots.txt for www.symbolicresonance.com
+
+User-agent: *
+Allow: /
